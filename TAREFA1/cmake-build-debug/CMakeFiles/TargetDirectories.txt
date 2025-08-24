@@ -1,0 +1,3 @@
+/home/nathan1/CLionProjects/laboratorio-NatHanzMedeiros/cmake-build-debug/CMakeFiles/laboratorio_NatHanzMedeiros.dir
+/home/nathan1/CLionProjects/laboratorio-NatHanzMedeiros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nathan1/CLionProjects/laboratorio-NatHanzMedeiros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
