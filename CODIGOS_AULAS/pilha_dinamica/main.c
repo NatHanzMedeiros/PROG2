@@ -23,7 +23,7 @@ int main() {
     minhaPilha = criarPilha(15);
     printf("Pilha criada com capacidade %d.\n", (*minhaPilha).capacidade);
 
-    // futuramente você poderia liberar a memória:
+    
     free(minhaPilha->dados);
     free(minhaPilha);
 
